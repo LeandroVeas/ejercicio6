@@ -1,7 +1,7 @@
 //b) Crear 2 variables con valores numéricos libres:
-
-var cantidadDeGatos = 5;
-var cantidadDePasos = 2;
+console.log("----Ejercicio n° 2----")
+var cantidadDeGatos = 8;
+var cantidadDePasos = 4;
 var pasos = "🐾";
 
 for (let i = 1; i <= cantidadDeGatos; i = i + 1) {
